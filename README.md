@@ -1,7 +1,6 @@
 Olá! Eu sou Wilian Camilo
 
 ⚡ Estudo Front End
-- 📫 E-mail para contato: wiliancamilos1@gmail.com
 
 <div align="center">
   <a href="https://github.com/WilianCamilo">
