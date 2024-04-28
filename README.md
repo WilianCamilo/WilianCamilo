@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Sou um jovem do interior da Paraíba com um foco, realizar uma contribuição significativa no mercado! <br> Marido, praticante de musculação, amante de um bom jogo de FPS e de caminhadas com o DOG. <br> Venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com as tecnologias. <br> Estou em transição de carreira para a área de desenvolvimento Back-end. Como Gestor de pessoas, melhorei minhas Soft Skills de resoluções de problemas, CX, trabalho em equipe, comunicação, capacidade de adaptabilidade com mudanças e comprometimento com as entregas. No qual, todos esses pontos serão relevantes na minha trajetória como desenvolvedor. </p>&nbsp;
+<p align="center">Sou um jovem do interior da Paraíba com um foco, realizar uma contribuição significativa no mercado! <br> Marido, praticante de musculação, amante de um bom jogo de FPS e de caminhadas com o DOG. <br> Venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com as tecnologias.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wiliancamilo&theme=radical&mode=weekly" />
