@@ -1,9 +1,3 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://media.licdn.com/dms/image/D4E16AQHm7-NSdedqRg/profile-displaybackgroundimage-shrink_350_1400/0/1709600534056?e=1720051200&v=beta&t=-Tb4YB5hNEYOS2Ok7CXtHXusbUMvuwwr-XfFd9Y7rCM"/>
-&nbsp;&nbsp;&nbsp;
-
-
-<p align="center">Sou um jovem do interior da Paraíba com um foco, realizar uma contribuição significativa no mercado! <br> Marido, praticante de musculação, amante de um bom jogo de FPS e de caminhadas com o DOG. <br> Venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com as tecnologias.</p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wiliancamilo&theme=radical&mode=weekly" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilianCamilo&layout=compact&langs_count=7&theme=dark"/>
@@ -11,9 +5,7 @@
  
  &nbsp;
  &nbsp;
-
-
-
+ 
 ## My Skills
 
 #### Main Stack:
