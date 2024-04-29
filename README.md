@@ -17,9 +17,7 @@
 
 #### Secondary Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Node.Js](https://img.shields.io/badge/Node.Js-239120?style=for-the-badge&logo=nodejs)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-ffd700?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
 ![GO](https://img.shields.io/badge/GO-4285F4?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -29,7 +27,6 @@
 
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-239120?style=for-the-badge&logo=SpringBoot)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-E44C30?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-239120?style=for-the-badge&logo=Express.js)&nbsp;
 
 
 #### Databases:
