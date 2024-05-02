@@ -11,12 +11,12 @@
 #### Main Stack:
 
 ![JAVA](https://img.shields.io/badge/JAVA-092E20?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-276DC3?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
+![PHP](https://img.shields.io/badge/PHP-276DC3?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-ffd700?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
 ![GO](https://img.shields.io/badge/GO-4285F4?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
