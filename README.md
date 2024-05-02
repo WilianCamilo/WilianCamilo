@@ -10,7 +10,7 @@
 
 #### Main Stack:
 
-![JAVA](https://img.shields.io/badge/JAVA-092E20?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=java&logoColor=black)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
